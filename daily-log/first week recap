@@ -1,0 +1,17 @@
+topic: vm setup and basic linux command 
+
+i used virtualbox as vm and installed kali operating system
+|_> virtualbox windows host package -> extension pack
+|_> kali.org
+
+commands: 
+pwd, ls, cd, mkdir, cat, rm -rf, nano, touch, man, tldr, sudo, su(switch user), exit_command 
+
+user and groups:
+useradd or adduser
+id <username>
+
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/gshaodow
