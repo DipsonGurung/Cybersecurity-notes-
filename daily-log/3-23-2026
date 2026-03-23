@@ -1,1 +1,29 @@
-#hi
+Date: 3/23
+
+Topic: FILE PERMISSION
+
+commands i learned :
+ls -a
+
+read= 4
+write= 2 
+execute= 1
+
+chmod 000 filename
+chmod 777 filename 
+chmod 640 filename 
+
+chown <usernname> <filename>
+chown <usernname>:<groupname> <filename>
+chgrp <groupname> <filename>
+
+echo $SHELL
+
+which bash
+
+chsh -s /usr/bin/bash <username>
+
+su -c ‘command’ <username>
+
+setfacl
+getfacl
